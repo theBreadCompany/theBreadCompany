@@ -4,4 +4,4 @@ and interested in
   - hardware stuff, be it repairing computers at smd-level or creating random circuits with my Arduino or Pi
   - trains lol
 
-I'm open to any advices, so feel free to tell me if there is any bad code (which will surely come across).
+I'm open to any advice, so feel free to tell me if there is any bad code (which will surely come across).
